@@ -20,6 +20,7 @@ while True:
 
     # Do logical updates here.
     my_rect.x += 4
+    my_rect.y -= 2
 
     screen.fill('pink')  # Fill the display with a solid color
 
